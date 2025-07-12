@@ -14,5 +14,5 @@
 
 </div><br/>
 
-Here is where I share my projects and learned as a developer in constant evolution.
-Aqui é onde eu compartilho meus projetos e aprendizados como desenvolvedor(a) em constante evolução.
+Here is where I share my projects and learned as a developer in constant evolution.<br/>
+Aqui é onde eu compartilho meus projetos e aprendizados como desenvolvedora em constante evolução.
